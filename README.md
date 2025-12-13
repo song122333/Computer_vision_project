@@ -30,3 +30,5 @@ public score: 0.75963
 
 ### live demo
 실제 사기에 사용된 ai 이미지와 실제 사진을 입력하여 ai/human을 구분하도록하는 프로그램
+<img width="1202" height="1132" alt="image" src="https://github.com/user-attachments/assets/ab17c971-441a-443e-9340-03972834b8ac" />
+
