@@ -1,5 +1,5 @@
 # Computer_vision_term_project
-team2: 김민솔, 정은수, 한송희
+team9: 김민솔, 정은수, 한송희
 
 ----
 ## 주제: Detect Ai vs. Human generated images
@@ -30,5 +30,7 @@ public score: 0.75963
 
 ### live demo
 실제 사기에 사용된 ai 이미지와 실제 사진을 입력하여 ai/human을 구분하도록하는 프로그램
-<img width="1202" height="1132" alt="image" src="https://github.com/user-attachments/assets/ab17c971-441a-443e-9340-03972834b8ac" />
+![제목 없는 디자인](https://github.com/user-attachments/assets/e992a811-6e6b-4b63-a717-77e93c45b2fe)
+
+
 
